@@ -1,3 +1,4 @@
 <items gfxroot="gfx/items/" version="1">
     <passive id="1" name="Airmax" gfx="airmax.png" description="No money no honey" quality="1" cache="speed" />
+    <passive id="2" name="Maksakov's Hat" gfx="maksakov.png" description="CRAP" quality="2" cache="damage firedelay luck" />
 </items>
