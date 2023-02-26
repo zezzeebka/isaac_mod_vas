@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive id="1" name="Airmax" gfx="airmax.png" description="No money no honey" quality="1" cache="speed" />
+</items>
