@@ -1,7 +1,7 @@
 <items gfxroot="gfx/items/" version="1">
     <passive id="1" name="Airmax" gfx="airmax.png" description="No money no honey" quality="1" cache="speed" />
     <passive id="2" name="Maksakov's Hat" gfx="maksakov.png" description="CRAP" quality="2" cache="damage firedelay luck" />
-    <passive id="3" name="ARQA" gfx="arqa.png" description="VKID" quality="2" cache="firedelay"/>
+    <passive id="3" name="ARQA" gfx="arqa.png" description="VKID" quality="2" cache="firedelay damage"/>
     <passive id="4" name="Corvus" gfx="corvus.png" description="VKID" quality="2" cache="range damage shotspeed" />
-    <passive id="5" name="Odens" gfx="odens.png" description="VKID" quality="2" cache="speed firedelay luck" />
+    <passive id="5" name="Odens" gfx="odens.png" description="VKID" quality="2" cache="speed firedelay luck damage" />
 </items>
